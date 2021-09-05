@@ -15,7 +15,7 @@ For more : [https://github.com/haltu/muuri]
 
 Ref : @niklasramo
 # License 
-Copyright © 2015 Haltu Oy. Licensed under [the MIT license] (https://github.com/haltu/muuri/blob/master/LICENSE.md)
+Copyright © 2015 Haltu Oy. Licensed under [the MIT license](https://github.com/haltu/muuri/blob/master/LICENSE.md "Named link title")
 
 
 
